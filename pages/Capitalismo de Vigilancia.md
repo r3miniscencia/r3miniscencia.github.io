@@ -1,0 +1,5 @@
+- ## ¿Qué es el Capitalismo de Vigilancia?
+	- Entiende la experiencia humana como una materia prima gratuita para transformarla en datos de comportamiento y predicciones.
+-
+- ## Referencias
+- [[@LA ERA DEL CAPITALISMO DE LA VIGILANCIA | LA LUCHA POR UN FUTURO HUMANO FRENTE A LAS NUEVAS FRONTERAS DEL PODER]]
