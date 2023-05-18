@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :todo
+ :preferred-workflow :now
 
  ;; The app will ignore those directories or files.
  ;; E.g. :hidden ["/archived" "/test.md" "../assets/archived"]
@@ -349,9 +349,8 @@
  :journal/page-title-format "EEEE, MM/dd/yyyy"
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
- :default-home {:page "Reminiscencia"}
+ :default-home {:page "Autodefensa digital y soberanía tecnológica"}
  :feature/enable-flashcards? false
- :zotero/settings-v2 {"bitex" {}, "bitek" {:attachments-block-text "[[Attachments]]", :type-id "5065565", :page-insert-prefix "@", :type :group}}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
