@@ -349,7 +349,7 @@
  :journal/page-title-format "EEEE, MM/dd/yyyy"
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
- :default-home {:page "Reminiscencia", :sidebar ["Contents" "Guías de autodefensa digital"]}
+ :default-home {:page "Reminiscencia", :sidebar ["Guías de autodefensa digital" "Contents"]}
  :feature/enable-flashcards? false
  :editor/preferred-pasting-file? false
  :ui/show-brackets? false
