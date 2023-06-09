@@ -1,0 +1,8 @@
+- ## [[Guías de autodefensa digital]]
+	- Se requieren algunos conocimientos técnicos o interés por aprender
+	- ### Material
+		- Elaboración propia, basado en un taller de una compa, que a su vez se basó en el libro de ![Resistencia Digital de Críptica](../assets/resistencia_digital_1681865454227_0.pdf) disponible en [su web](https://www.criptica.org/material/resistencia_digital.pdf)
+- ## [[Hábitos digitales con el móvil]]
+	- Sin necesidad de conocimientos previos
+	- ### Material
+		- Guía de Tactical Tech
