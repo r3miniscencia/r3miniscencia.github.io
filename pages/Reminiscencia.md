@@ -1,4 +1,4 @@
 - ## Categorías
 - {{embed [[Autodefensa digital]]}}
-- {{embed [[Soberanía tecnológica]]}}
-- {{embed [[Capitalismo de Vigilancia]]}}
+- [[Soberanía tecnológica]]
+- [[Capitalismo de Vigilancia]]
