@@ -1,0 +1,4 @@
+- [web]([https://lineageos.org/](https://lineageos.org/)):
+- Soportado por gran variedad de [dispositivos]([https://wiki.lineageos.org/devices/](https://wiki.lineageos.org/devices/))
+- Para algunas aplicaciones es necesario instalar MicroG o gApps.
+- LineageOS for microG está preparado pasa usar microG de base y F-Droid (actualizaciones automáticas)

@@ -1,0 +1,4 @@
+- Tecnología que sirva a las personas y que esté al servicio de defender y ampliar derechos. En vez de responder a un modelo mercantil.
+-
+- [[Software Libre]]
+- [[Software Libre en móviles]]

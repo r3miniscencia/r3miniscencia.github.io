@@ -1,0 +1,27 @@
+- {{embed [[Software Libre]]}}
+## **Recopilaciones o colecciones de Herramientas**
+id:: 648144c5-74c6-4257-8833-a4957d2d3375
+	- Privacy Guides:
+		- [Privacy Guides - Android Overview](https://www.privacyguides.org/os/android-overview/)
+		- [Privacy Guides - Android](https://www.privacyguides.org/android/)
+		- [Privacy Guides  - Privacy Tools](https://www.privacyguides.org/tools/)
+	- Prism break:
+		- [Android](https://prism-break.org/es/categories/android/)
+		- [iOS](https://prism-break.org/es/categories/ios/)
+	- [Desgooglicemos Internet](https://degooglisons-internet.org/es/)
+	- [switching.software](https://switching.software/)
+	- [Privacy Tools - Android alternatives](https://www.privacytools.io/android-alternatives)
+	- Gofoss:
+		- [Degoogled Phones - Free Your Phone From Google And Apple](https://gofoss.net/intro-free-your-phone/)
+		- [Top 75 Tracker Free FOSS Apps (FDroid & Aurora Store)](https://gofoss.net/foss-apps/)
+	- EFF:
+		- [Surveillance Self-Defense]([https://ssd.eff.org/es](https://ssd.eff.org/es))
+		    - [Android](https://ssd.eff.org/es/search?q=android&commit=Buscar)
+		    - [iOS](https://ssd.eff.org/es/search?q=ios&commit=Buscar)
+	- [The Guardian Project](https://guardianproject.info/)
+	- [Guía de Defensa Digital para Organizaciones Sociales]([https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf))
+	- [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia]([https://codeberg.org/PrivacyFirst/Data_Protection/issues](https://codeberg.org/PrivacyFirst/Data_Protection/issues))
+- ## **Sistemas Operativos**
+- {{embed [[LineageOS]]}}
+-
+- [GrapheneOS]([https://grapheneos.org/](https://grapheneos.org/)):

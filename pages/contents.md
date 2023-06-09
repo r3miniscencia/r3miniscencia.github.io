@@ -1,4 +1,7 @@
 - [[Autodefensa digital]]
 	- [[Guías de autodefensa digital]]
 	- [[Hábitos digitales con el móvil]]
+- [[Soberanía tecnológica]]
+	- [[Software Libre]]
+	- [[Software Libre en móviles]]
 - [[Capitalismo de Vigilancia]]
