@@ -13,6 +13,3 @@ links:: [Local library](zotero://select/groups/5065565/items/2SYL3Q8K), [Web lib
 - [[Attachments]]
 	- [Snapshot](https://traficantes.net/libros/la-era-del-capitalismo-de-la-vigilancia) {{zotero-imported-file QCNDXXW5, "la-era-del-capitalismo-de-la-vigilancia.html"}}
 	- ![La_era_del_capitalismo_de_la_vigilancia-Shoshana_Zuboff.pdf](../assets/La_era_del_capitalismo_de_la_vigilancia-Shoshana_Zuboff_1684413599927_0.pdf)
-		-
-			-
-			-

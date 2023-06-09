@@ -9,8 +9,12 @@ file-path:: ../assets/La_era_del_capitalismo_de_la_vigilancia-Shoshana_Zuboff_16
 	  hl-color:: yellow
 	- Algunos de dichos datos se utilizan para mejorar productos o servicios, el resto es considerado como un **excedente conductual privativo** («propiedad») de las propias empresas capitalistas de la vigilancia
 	- Se fabrican productos predictivos que prevén lo que cualquiera de ustedes hará ahora, en breve y más adelante.
-	-
 - ls-type:: annotation
   hl-page:: 12
   hl-color:: yellow
   id:: 64662390-c2e2-4033-8ad3-7e9bdc2eacbb
+- stos productos predictivos son comprados y vendidos en un nuevo tipo de mercado de predicciones de comportamientos que yo denomino mercados de futuros conductuales
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: yellow
+  id:: 64665c9d-b662-4321-99be-f45b87eb7186
