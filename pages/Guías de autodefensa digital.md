@@ -15,8 +15,9 @@
 	- ## 2. Los malos a.k.a modelo de amenazas
 	  ![image.png](../assets/image_1686190705183_0.png){:height 171, :width 599}
 	- ## 3. Seguridad operacional vs. Seguridad intrumental
-	  +  ^^Seguridad operacional^^: se centra en el uso de **procesos y protocolos para aumentar la seguridad**.
+	  +  ^^Seguridad operacional (OPSEC)^^: se centra en el uso de **procesos y protocolos para aumentar la seguridad**. Se ocupa de pautas de uso y de comportamiento que nos sirven para adquirir ventaja estratégica en un hipotético choque de fuerzas con un determinado oponente.
 	  + ^^Seguridad instrumental^^: se centra en el uso de **herramientas y aplicaciones para aumentar la seguridad**.
+	  + > "La seguridad operacional sin un conocimiento técnico estricto es mero parloteo existencial, mientras que la seguridad instrumental separada del pensamiento operacional es un abandono de la facultad estratégica que toda técnica contiene." [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]]
 	- ### 4. Primeros pasos
 	  + [[El conocimiento es Poder]]
 - # Seguridad básica
@@ -35,12 +36,14 @@
 	  
 	  + ¿Cuándo una contraseña es segura?
 	  + ¿Cómo gestionamos las contraseñas?
+	  + ¿Cuál es la [[autenticación]] más segura?
 	- ### 1.1. **Contraseñas**: Solución 
 	  ^^**Seguridad Operacional**^^
 	  + **Larga** es mejor que compleja
 	  + **Cambiarlas** de vez en cuando
 	  + **Nunca reutilizarlas**
-	  + **Segundo factor de autenticación**
+	  + **Usar [[autenticación]] multifactor**
+	  + **No poner todos los huevos en la misma cesta**
 	- ### 1.2. **Contraseñas**: Solución
 	  ^^**Seguridad Instrumental**^^
 	  + [**HaveIBeenPwned**](https://haveibeenpwned.com/): sitio web para saber si algún servicio que usamos ha sido hackeado
@@ -76,6 +79,8 @@
 	  + Utilizar un bloqueo seguro
 	- ### 4.1 **Bloqueo de móvil**: Solución
 	  ^^**Seguridad Instrumental**^^
+	  + No utilizar bloqueo biométrico o de patrón
+	  + Cifrado nativo de Android o Apple
 	- ### 5.1 **Cifrado de ordenador**: Solución
 	  ^^**Seguridad Operacional**^^
 	  + Mantener el ordenador apagado cuando no se usa
@@ -100,7 +105,7 @@
 	  ^^**Seguridad Instrumental**^^
 	- ## 4. **Reconocimiento físico**
 	  Todas las manifestaciones son grabadas. Las caras y los tatuajes son muy útiles para reconocerte, tápalos.
-	  ![](https://podcast.radioalmaina.org/wp-content/uploads/2019/03/cámaras_espiándose.gif)
+	  ![](https://podcast.radioalmaina.org/wp-content/uploads/2019/03/cámaras_espiándose.gif){:height 203, :width 344, :align center}
 	- ### 4.1. **Reconocimiento físico**: Solución
 	  ^^**Seguridad Operacional**^^
 	  + Tapa todo aquello que te pueda identificar físicamente
@@ -118,7 +123,11 @@
 	  + Más del 99% de los ataques requieren la intervención humana para conseguir sus objetivos.
 	  + Sesgos cognitivos
 - ### Conclusiones
+- ### Infografías
+	- [Infografías Colectivo Disonancia](https://colectivodisonancia.net/infografias/)
+	- ![https://web.karisma.org.co/wp-content/uploads/2023/06/INFOGRAFIA-WEB-GUIA-100-1-scaled.jpg](https://web.karisma.org.co/wp-content/uploads/2023/06/INFOGRAFIA-WEB-GUIA-100-1-scaled.jpg)
 ### Referencias
-- [Guía de Defensa Digital para Organizaciones Sociales](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf)
-- [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia](https://codeberg.org/PrivacyFirst/Data_Protection/issues)/
+	- [Guía de Defensa Digital para Organizaciones Sociales](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf)
+	- [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia](https://codeberg.org/PrivacyFirst/Data_Protection/issues)/
 - {{embed ((648144c5-74c6-4257-8833-a4957d2d3375))}}
+- [[Formación]]
