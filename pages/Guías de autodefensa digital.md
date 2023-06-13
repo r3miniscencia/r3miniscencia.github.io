@@ -11,7 +11,7 @@
 	  
 	  * Es un mundo muy amplio por lo que **no hay que asustarse ni agobiarse**.
 	  * Los **cambios** se deben hacer **poco a poco** para no agotarse.  
-	  ![image.png](../assets/image_1681909752230_0.png){:height 213, :width 290, :align right}
+	  ![image.png](../assets/image_1681909752230_0.png){:height 213, :width 290, :align center}
 	- ## 2. Los malos a.k.a modelo de amenazas
 	  ![image.png](../assets/image_1686190705183_0.png){:height 171, :width 599}
 	- ## 3. Seguridad operacional vs. Seguridad intrumental
