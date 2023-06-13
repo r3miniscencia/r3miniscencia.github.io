@@ -15,13 +15,26 @@ id:: 648144c5-74c6-4257-8833-a4957d2d3375
 		- [Degoogled Phones - Free Your Phone From Google And Apple](https://gofoss.net/intro-free-your-phone/)
 		- [Top 75 Tracker Free FOSS Apps (FDroid & Aurora Store)](https://gofoss.net/foss-apps/)
 	- EFF:
-		- [Surveillance Self-Defense]([https://ssd.eff.org/es](https://ssd.eff.org/es))
+		- [Surveillance Self-Defense](https://ssd.eff.org/es)
 		    - [Android](https://ssd.eff.org/es/search?q=android&commit=Buscar)
 		    - [iOS](https://ssd.eff.org/es/search?q=ios&commit=Buscar)
 	- [The Guardian Project](https://guardianproject.info/)
-	- [Guía de Defensa Digital para Organizaciones Sociales]([https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf))
-	- [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia]([https://codeberg.org/PrivacyFirst/Data_Protection/issues](https://codeberg.org/PrivacyFirst/Data_Protection/issues))
+	- [Guía de Defensa Digital para Organizaciones Sociales](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf)
+	- [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia](https://codeberg.org/PrivacyFirst/Data_Protection/issues)
 - ## **Sistemas Operativos**
 - {{embed [[LineageOS]]}}
+- {{embed [[GrapheneOS]]}}
+- {{embed [[CalyxOS]]}}
+- {{embed [[DivestOS]]}}
+- {{embed [[crDroid]]}}
+- ## **Hacks varios**
+	- {{embed [[Magisk]]}}
+- ## **Configuraciones generales**
+	- Cifrar el teléfono
+	- Separar perfiles o usar la funcionalidad de "perfil de trabajo" de Android para aislar aplicaciones propietarias (ver más abajo).
+		- ¿Qué diferencia existe entre las funcionalidades de perfil de trabajo o perfil de usuario?
+- ## **Categorías de aplicaciones**
+- ### **Repositorios de aplicaciones**
+	- {{embed [[F-droid]]}}
 -
 - [GrapheneOS]([https://grapheneos.org/](https://grapheneos.org/)):
