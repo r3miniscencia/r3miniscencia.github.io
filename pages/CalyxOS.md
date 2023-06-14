@@ -1,2 +1,2 @@
-- [web]([https://calyxos.org/](https://calyxos.org/))
+- [web](https://calyxos.org/)
 - Soportado por los pixel y Fairphone 4.

@@ -1,7 +1,10 @@
 - ## ¿Qué es el Capitalismo de Vigilancia?
 	- {{embed ((64832728-c228-4c7b-82a6-9566a42b5dab))}}
 	- Entiende la experiencia humana como una materia prima gratuita para transformarla en datos de comportamiento y predicciones.
-	-
+- ## GAFAM
+	- ![https://www.faimaison.net/files/images/chatons-leprette-mai2019/Peha-Banquet-Degooglisons-CC-By.png](https://www.faimaison.net/files/images/chatons-leprette-mai2019/Peha-Banquet-Degooglisons-CC-By.png){:height 392, :width 536}
+- ## Publicidad
+	- ![2744e132e7fdb04b83902f0df6c0f491.jpg](../assets/2744e132e7fdb04b83902f0df6c0f491_1686741645770_0.jpg)
 - ## Referencias
 - [[@Capitalismo de vigilancia]]
 - [[@LA ERA DEL CAPITALISMO DE LA VIGILANCIA | LA LUCHA POR UN FUTURO HUMANO FRENTE A LAS NUEVAS FRONTERAS DEL PODER]]

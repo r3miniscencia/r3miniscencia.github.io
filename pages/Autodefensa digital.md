@@ -1,6 +1,7 @@
 - ## [[Guías de autodefensa digital]]
 	- Se requieren algunos conocimientos técnicos o interés por aprender
 	- ### Material
+		- [[Presentación Introducción a la autodefensa digital]]
 		- Elaboración propia, basado en un taller de una compa, que a su vez se basó en el libro de [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]] disponible en [su web](https://www.criptica.org/material/resistencia_digital.pdf) ![Resistencia Digital de Críptica](../assets/resistencia_digital_1681865454227_0.pdf)
 - ## [[Hábitos digitales con el móvil]]
 	- Sin necesidad de conocimientos previos

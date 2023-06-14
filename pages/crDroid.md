@@ -1,1 +1,1 @@
-- [web](https://crdroid.net/))
+- [web](https://crdroid.net/)
