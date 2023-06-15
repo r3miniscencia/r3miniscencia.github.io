@@ -1,6 +1,7 @@
 - [[Autodefensa digital]]
 	- [[Guías de autodefensa digital]]
-		- [[Presentación Introducción a la autodefensa digital]]
+		- [[Presentación: Primeros pasos para la autodefensa digital]]
+		- [[Guión: Primeros pasos para la autodefensa digital]]
 	- [[Hábitos digitales con el móvil]]
 - [[Soberanía tecnológica]]
 	- [[Software Libre]]

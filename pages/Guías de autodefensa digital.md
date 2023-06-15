@@ -1,5 +1,6 @@
-- # Introducción a la autodefensa digital
+- # Guión: Primeros pasos para la autodefensa digital
   id:: 64823317-68ae-46ec-9e49-8b2f4aaeaf16
+- {{embed ((648a6531-a1b9-43b5-b95e-7ee32f34e2ea))}}
 - # Conceptos previos
 	- ## 0. Contexto
 	  + La tecnología es política
@@ -8,7 +9,6 @@
 	  + [[Capitalismo de Vigilancia]]
 	  + [[Soberanía tecnológica]]
 	- ## 1. Seguridad poco a poco:
-	  
 	  * Es un mundo muy amplio por lo que **no hay que asustarse ni agobiarse**.
 	  * Los **cambios** se deben hacer **poco a poco** para no agotarse.  
 	  ![image.png](../assets/image_1681909752230_0.png){:height 213, :width 290, :align center}
@@ -16,10 +16,12 @@
 	  ![image.png](../assets/image_1686190705183_0.png){:height 171, :width 599}
 	- ## 3. Seguridad operacional vs. Seguridad intrumental
 	  +  ^^Seguridad operacional (OPSEC)^^: se centra en el uso de **procesos y protocolos para aumentar la seguridad**. Se ocupa de pautas de uso y de comportamiento que nos sirven para adquirir ventaja estratégica en un hipotético choque de fuerzas con un determinado oponente.
+	  + > "La [[seguridad operacional]] sin un conocimiento técnico estricto es mero parloteo existencial, mientras que la seguridad instrumental separada del pensamiento operacional es un abandono de la facultad estratégica que toda técnica contiene." [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]]
 	  + ^^Seguridad instrumental^^: se centra en el uso de **herramientas y aplicaciones para aumentar la seguridad**.
-	  + > "La seguridad operacional sin un conocimiento técnico estricto es mero parloteo existencial, mientras que la seguridad instrumental separada del pensamiento operacional es un abandono de la facultad estratégica que toda técnica contiene." [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]]
 	- ### 4. Primeros pasos
 	  + [[El conocimiento es Poder]]
+	  + [[El Punto Débil]]
+	  + [[Más simple es más seguro y fácil]]
 - # Seguridad básica
 	- ## 1. **Contraseñas**:  Problema
 	  
@@ -33,7 +35,6 @@
 	  
 	  Además sigue habiendo filtraciones de contraseñas, exponiendo hasta las contraseñas seguras.
 	- ## 1. **Contraseñas**:  Preguntas
-	  
 	  + ¿Cuándo una contraseña es segura?
 	  + ¿Cómo gestionamos las contraseñas?
 	  + ¿Cuál es la [[autenticación]] más segura?
@@ -54,6 +55,7 @@
 	  + Aparece nuevo malware frecuentemente
 	- ## 2. **Software**: Preguntas
 	  + ¿El software es seguro?
+	  + ¿El el código libre más seguro que el código privativo?
 	- ### 2.1. **Software**: Solución
 	  ^^**Seguridad Operacional**^^
 	  + Actualizar frecuentemente
@@ -62,11 +64,12 @@
 	  + Los teléfonos móviles, mediante sus antenas de telefonía anuncian su posición constantemente.
 	  + WiFi y Bluetooth también pueden (menos común y permite menos rango)
 	  + Eso se usa para rastrear e identificar a activistas
+	  + [[@El Problema con los Teléfonos Móviles]]
 	- ### 3.1 **Dispositivos**: Solución
 	  ^^**Seguridad Operacional**^^
 	  + Poner el modo avión o apagar cuando no se esté usando
 	  + Apagar el wifi después de 5 mins si no está conectado
-	- + Tener en cuenta qué información ofreces en una protesta
+	  + Tener en cuenta qué información ofreces en una protesta
 	- ### 3.1 **Dispositivos**: Solución
 	  ^^**Seguridad Instrumental**^^
 	  + Modo avión
@@ -92,6 +95,7 @@
 		- ### 6.2 **Conversaciones**: Solución:
 - # **Anonimato**
 	- ## 1. **Recolección masiva**
+	  + Las nuevas formas de recolección de datos presentan amenazas nuevas. Lo importante no es ya los datos sino los [[metadatos]].
 	- ## 2. **Privacidad**
 	- ### 2.1. **Privacidad**: Solución:
 	  ^^**Seguridad Operacional**^^

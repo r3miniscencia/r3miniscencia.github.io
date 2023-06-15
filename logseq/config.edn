@@ -65,7 +65,7 @@
 
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
- :start-of-week 6
+ :start-of-week 0
 
  ;; Specify a custom CSS import
  ;; This option take precedence over your local `logseq/custom.css` file
@@ -248,7 +248,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Reminiscencia" "Guías de autodefensa digital" "Planificador"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -346,11 +346,11 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :journal/page-title-format "EEEE, MM/dd/yyyy"
- :feature/enable-journals? false
+ :journal/page-title-format "EEEE, dd/MM/yyyy"
+ :feature/enable-journals? true
  :feature/enable-whiteboards? false
  :default-home {:page "Reminiscencia", :sidebar ["Guías de autodefensa digital" "Contents"]}
- :feature/enable-flashcards? false
+ :feature/enable-flashcards? true
  :editor/preferred-pasting-file? false
  :ui/show-brackets? false
 
