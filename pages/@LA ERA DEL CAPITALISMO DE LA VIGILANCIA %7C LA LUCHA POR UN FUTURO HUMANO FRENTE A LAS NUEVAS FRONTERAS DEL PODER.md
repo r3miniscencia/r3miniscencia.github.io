@@ -1,4 +1,4 @@
-date:: [[Wednesday, 05/17/2023]]
+date:: [[Monday, 12/06/2023]]
 title:: @LA ERA DEL CAPITALISMO DE LA VIGILANCIA | LA LUCHA POR UN FUTURO HUMANO FRENTE A LAS NUEVAS FRONTERAS DEL PODER
 item-type:: [[book]]
 access-date:: 2023-05-18T12:31:32Z

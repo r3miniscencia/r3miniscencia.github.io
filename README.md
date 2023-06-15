@@ -11,6 +11,8 @@ Accesible en: [https://reminiscencia.frama.io/](https://reminiscencia.frama.io/)
 
 Clonar el repositorio, descargar [Logseq](https://logseq.com/) y abrir el proyecto.
 
+También tiene aplicación para moviles. La sincronización entre dispositivos se recomienda hacer con syncthing o Nextcloud. Para publicar desde el móvil se puede utilizar Termux.
+
 [build-shield]: https://framagit.org/reminiscencia/reminiscencia.frama.io/badges/main/pipeline.svg
 [build-url]: https://framagit.org/reminiscencia/reminiscencia.frama.io/-/pipelines
 [license-url]: https://framagit.org/reminiscencia/reminiscencia.frama.io/blob/master/LICENSE.txt

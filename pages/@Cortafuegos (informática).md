@@ -1,4 +1,4 @@
-date:: [[Monday, 01/16/2023]]
+date:: [[Monday, 12/06/2023]]
 extra:: Page Version ID: 148635117
 encyclopedia-title:: "Wikipedia, la enciclopedia libre"
 title:: @Cortafuegos (informática)

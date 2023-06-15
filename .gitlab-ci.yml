@@ -5,6 +5,7 @@ pages:
     - mkdir public
     - mv publish.mjs /home/logseq/publish.mjs
     - cd /home/logseq
+    - export LOGSEQ_THEME=dark
     - "xvfb-run node /home/logseq/publish.mjs -p $CI_PROJECT_DIR -t $CI_PROJECT_DIR/public/build_trace.txt -o $CI_PROJECT_DIR/public"
   artifacts:
     paths:

@@ -1,4 +1,4 @@
-date:: [[Tuesday, 10/18/2022]]
+date:: [[Monday, 12/06/2023]]
 extra:: Page Version ID: 146727931
 encyclopedia-title:: "Wikipedia, la enciclopedia libre"
 title:: @Capitalismo de vigilancia
