@@ -1,4 +1,8 @@
-- ## Categorías
+- Wiki o base de conocimiento para aprender cooperativamente en temáticas como Autodefensa Digital, Software Libre, Administración de Sistemas, ...
+- Modo oscuro con el atajo: `tt`
+- ## Temáticas
 - {{embed [[Autodefensa digital]]}}
 - [[Soberanía tecnológica]]
+	- [[Software Libre]]
+		- [[Software Libre en móviles]]
 - [[Capitalismo de Vigilancia]]

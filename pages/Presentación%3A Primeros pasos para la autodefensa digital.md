@@ -2,6 +2,7 @@
 - # Índice
   id:: 648a6531-a1b9-43b5-b95e-7ee32f34e2ea
 	- **Conceptios previos**
+	  + Contexto
 	  + Seguridad poco a poco
 	  + Los malos a.k.a modelo de amenazas
 	  + Seguridad operacional vs. Seguridad intrumental
@@ -17,6 +18,14 @@
 	  + Bloqueo de móvil
 	  + Cifrado de ordenador
 	  + Conversaciones
+	- **Anonimato**
+	  + Recolección masiva
+	  + Privacidad
+	  + Redes
+	  + Reconocimiento físico
+	- **Seguridad Avanzada**
+	  + Separación de perfiles
+	  + No crear más información de la necesaria
 # Conceptos previos
 	- ## 0. Contexto
 	  + La tecnología es política
