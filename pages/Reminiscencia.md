@@ -1,7 +1,8 @@
 - Wiki o base de conocimiento para aprender cooperativamente en temáticas como Autodefensa Digital, Software Libre, Administración de Sistemas, ...
-- Modo oscuro con el atajo: `tt`
+- El atajo de teclado para activar el modo oscuro: `tt`
 - ## Temáticas
-- {{embed [[Autodefensa digital]]}}
+- [[Autodefensa digital]]
+- {{embed ((648a6531-b78f-4cc6-b715-d161a47a422a))}}
 - [[Soberanía tecnológica]]
 	- [[Software Libre]]
 		- [[Software Libre en móviles]]

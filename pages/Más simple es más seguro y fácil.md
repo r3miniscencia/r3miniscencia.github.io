@@ -10,3 +10,4 @@
    muchas cosas, pero a veces los problemas de seguridad de un simple 
   bolígrafo y papel de carta pueden ser más fáciles de entender, y por lo 
   tanto más fáciles de manejar." [[@Siete pasos para la Seguridad Digital]]
+- > {{embed ((648c81bf-3bea-49f9-8fa0-b1062db752ed)) }} [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]]

@@ -22,11 +22,12 @@ id:: 648144c5-74c6-4257-8833-a4957d2d3375
 	- [Guía de Defensa Digital para Organizaciones Sociales](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf)
 	- [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia](https://codeberg.org/PrivacyFirst/Data_Protection/issues)
 - ## **Sistemas Operativos**
-- {{embed [[LineageOS]]}}
-- {{embed [[GrapheneOS]]}}
-- {{embed [[CalyxOS]]}}
-- {{embed [[DivestOS]]}}
-- {{embed [[crDroid]]}}
+  id:: 648a6532-7abc-4db3-8aa2-e741e3a8f5ce
+	- {{embed [[LineageOS]]}}
+	- {{embed [[GrapheneOS]]}}
+	- {{embed [[CalyxOS]]}}
+	- {{embed [[DivestOS]]}}
+	- {{embed [[crDroid]]}}
 - ## **Hacks varios**
 	- {{embed [[Magisk]]}}
 - ## **Configuraciones generales**
@@ -36,5 +37,164 @@ id:: 648144c5-74c6-4257-8833-a4957d2d3375
 - ## **Categorías de aplicaciones**
 - ### **Repositorios de aplicaciones**
 	- {{embed [[F-droid]]}}
+- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/)
+- ### **Aislamiento de aplicaciones**
+	- [Insular](https://f-droid.org/en/packages/com.oasisfeng.island.fdroid/)
+	- [Shelter](https://f-droid.org/en/packages/net.typeblog.shelter/)
+- ## **Firewall**
+	- [AFWall+](https://f-droid.org/en/packages/dev.ukanth.ufirewall/): requiere root.
+	- [AdAway](https://f-droid.org/en/packages/org.adaway/): disponible con o sin root. También filtra anuncios.
+	- [NetGuard](https://f-droid.org/en/packages/eu.faircode.netguard/): no requiere root. Tiene funcionalidades de pago.
+	- [DNS66](https://f-droid.org/es/packages/org.jak_linux.dns66/):  no requiere root. También filtra anuncios y permite configurar el  servidor de DNS. Funciona mucho más robustamente que AdAway sin root.
+- ### **Gestores de archivos**
+	- [Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/)
+	- [Librera Reader](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
+	- [MuPDF viewer](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)
+	- [LibreOffice Viewer](https://f-droid.org/en/packages/org.documentfoundation.libreoffice/)
+	- [Material files](https://f-droid.org/en/packages/me.zhanghai.android.files/): soporte FTP, SFTP, SMB
+- ### **Sincronización de archivos**
+	- [SyncThing](https://f-droid.org/en/packages/com.nutomic.syncthingandroid/): descentralizado
+	- [Nextcloud](https://f-droid.org/en/packages/com.nextcloud.client/): centralizado, requiere un servidor remoto. Por ejemplo Disroot
+- ### **Sincronización de contactos y calendario**
+	- [DAVx5](https://f-droid.org/en/packages/com.infomaniak.sync/)
+	- [DecSync CC](https://f-droid.org/en/packages/org.decsync.cc/) (Mediante SyncThing)
+- ### **Gestores de notificaciones**
+	- ntfy (UnifiedPush)
+	- Conversations (UnifiedPush)
+	- Interesante lectura (técnica) sobre los esfuerzos de liberar las notificaciones push del servicio de Google: [https://f-droid.org/es/2022/12/18/unifiedpush.html](https://f-droid.org/es/2022/12/18/unifiedpush.html)
+- ### **Teclados**
+	- [AnySoftKeyboard](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/)
+	- [SimpleKeyboard](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
+- ### **Navegadores**
+	- Fennec
+	- Firefox Focus/Klar
+	- Tor Browser
+	- Vanadium
+	- Mull
+- ### **Gestores de enlaces**
+	- UntrackMe
+- ### **VPNs**
+  id:: 648a70f5-b3b5-4152-a5ee-771f6fe71537
+	- WireGuard
+	- RiseupVPN
+- ### **Bloqueadores de publi (y también pueden manipular los DNS)**
+	- DNS66
+	- Blokada
+- ### **Gestores multimedia**
+	- VLC
+	- New Pipe: contenido de youtube, soundcloud y
+	- Libretube
+	- [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/): postcasts
+	- Jellyfin
+- ### **Videoconferencia**
+	- Jitsi Meet
+- ### **Gestores de noticias**
+	- Feeder
+	- Tiny Tiny RSS
+- ### **Redes sociales**
+	- Fedilab
+	- Pixeldroid
+	- Fritter
+	- Interfaces alternativas para acceder a contenidos de servicios y redes sociales privativas (Nitter, Invidious, NewPipe…):
+		- explicación (en español) y algumos ejemplos: [https://tinfoilismo.org/articulos/interfaces-alternativas/](https://tinfoilismo.org/articulos/interfaces-alternativas/)
+		- UntrackMe para automatizar redirecciones a estos servicios
+- ### **Correo electrónico**
+	- K-9 mail
+	- Fairmail
+	- OpenkeyChain
+- ### **Mensajería instantánea**
+  id:: 648a7195-91e6-41f3-a134-15023fd92ee7
+	- Conversations (jabber/xmpp)
+	- Element (matrix)
+	- Briar
+	- Jami
+	- aTox (tox)
+	- Signal (signal)
+	- Molly (signal)
+- ### **Mapas y navegación de transporte**
+	- Una gran ventaja es tener mapas offline y sin que te espíen. Sostenidas gracias a los mapas del proyecto OpenStreetMap.
+	- OsmAnd
+	- Organic maps
+	- OsmAnd Online GPS tracking
+	- CriticalMaps (para seguir masas críticas)
+- ### **Calendario **
+	- [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/)
+	- [Simple Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/)
+- ### **Gestores de tareas**
+	- [[Logseq]]
+	- [Tasks](https://f-droid.org/en/packages/org.tasks/)
+	- [OpenTasks](https://f-droid.org/en/packages/org.dmfs.tasks/)
+- ### **Comida**
+	- Grocy
+	- OpenVegeMap
+	- Saisonkalender (alimentos de temporada)
+- ### **Passbook**
+	- PassAndroid
+- ### **Gestores de notas**
+	- [[Logseq]]
+	- Markor
+	- Standard Notes: la cima de la [privacidad](https://standardnotes.com/privacy) y la [preservación a largo plazo](https://standardnotes.com/longevity) de tus notas, a costa de algunas funcionalidades. [Su visión es exquisita](https://standardnotes.com/blog) y su software, el del lado del servidor también, libre y auditado.
+	- [Nextcloud Notes](https://f-droid.org/en/packages/it.niedermann.owncloud.notes/)
+	- [Acode](https://f-droid.org/en/packages/com.foxdebug.acode/)
+- ### **Gestores de contraseñas**
+	- KeepassXC
+	- AndOTP: segundo factor de autenticación. DEPRECADO
+	- Password Store [https://f-droid.org/en/packages/dev.msfjarvis.aps/](https://f-droid.org/en/packages/dev.msfjarvis.aps/)
+	- Standard Notes (con un editor de pago): segundo factor de autenticación
+- ### **Gestores de dinero**
+	- My Expenses
+	- MoneyBuster
+	- Beancount
+- ### **Análisis de aplicaciones (trackers, permisos, ...)**
+	- Exodus
+	- Vigilante
+	- ClassicShark3xodus
+	- [APK Explorer & Editor](https://f-droid.org/en/packages/com.apk.editor/)
+- ### **Administración de sistemas**
+	- DriveDroid
+	- ConnectBot
+	- Termux
+- ### **Gestor de código e issues**
+	- [GitTouch](https://f-droid.org/en/packages/io.github.pd4d10.gittouch/): GitHub, GitLab, Bitbucket, Gitea, and Gitee
+	- [GitFox](https://f-droid.org/packages/com.gitlab.terrakok.gitfox/): GitLab [código fuente](https://gitlab.com/terrakok/gitlab-client)
+	- [OctoDroid](https://f-droid.org/packages/com.gh4a/): GitHub
+- #### **Redes**
+	- Ning
+	- InviZible Pro [https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/)
+	- Port Authority
+- ### **Teléfonos Linux**
+	- Alternativas como Pinephone
+	- Teléfonos de segunda mano bien soportados por postmarketOS ♻️ (p. ej. OnePlus 6 o Xiaomi Pocophone F1). Lista completa: [https://wiki.postmarketos.org/wiki/Devices](https://wiki.postmarketos.org/wiki/Devices)
+	- Termux
+	- AnLinux
+- ### **Lanzadores de aplicaciones**
+	- Olauncher
+	- KISS Launcher
+- ### **Juegos**
+	- Shattered Pixel Dungeon
+	- Vector Pinball
+	- Simple Solitaire Collection
+- ### **Música**
+	- Cythara: afinador
+	- Metronome: metrónomo
+	- Funkwhale
+- ### **Hábitos**
+	- [Loop Habit Tracker](https://f-droid.org/en/packages/org.isoron.uhabits/): offline y honesto contigo mismo
+- ### **Auto-organización y participación digital**
+	- Gancio
+	- Mobilizon
 -
 - [GrapheneOS]([https://grapheneos.org/](https://grapheneos.org/)):
+## Tarjeta SIM
+	- El telefonos como el Pinephone permiten disabilitar fisicamente la sim,
+	   existiendo la posiblidad de usar una tarjeta sim externa con un 
+	  adaptador conectado mediante USB.
+	- Esto permite evitar tracking mediante la tarjeta sim, posibilitando el uso 
+	  de una SIM que no este relacionada con el dispositivo.
+- ## **Libros**
+	- [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]]
+	- Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones. Críptica. [https://archive.org/details/resistenciadigital/mode/2up](https://archive.org/details/resistenciadigital/mode/2up)
+	- El pequeño libro rojo del activista en la red. Marta Peirano
+	- Soberanía tecnológica
+		- vol. 1: [https://www.ritimo.org/IMG/pdf/dossier-st1-es.pdf](https://www.ritimo.org/IMG/pdf/dossier-st1-es.pdf)
+		- vol. 2: [https://sobtec.gitbooks.io/sobtec2/content/es/](https://sobtec.gitbooks.io/sobtec2/content/es/)
