@@ -1,0 +1,4 @@
+- [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]]
+	- > {{embed ((648c7ad3-876f-4461-af0e-a624f98d3d63)) }}
+	- > {{embed ((648c7c6c-a7ad-4aea-82aa-7902d53f89d4)) }}
+	- > {{embed ((648c7d4b-2a02-4222-9364-bb7c53332fad)) }}

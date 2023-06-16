@@ -8,9 +8,9 @@
 	  + Seguridad operacional vs. Seguridad intrumental
 	  + Primeros pasos
 	- **Estructura**
-	  + Problema ![Problema](https://publicdomainvectors.org/photos/warning-17.png){:height 40, :width 40}
-	  + Preguntas ![Preguntas](https://publicdomainvectors.org/photos/primary-gnome-question.png){:height 40, :width 40}
-	  + Soluciones ![Soluciones](https://publicdomainvectors.org/photos/lightbulb-icon.png){:height 40, :width 40}
+	  + Problema ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	  + Preguntas ![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
+	  + Soluciones ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40}
 	- **Seguridad básica**
 	  + Contraseñas
 	  + Software

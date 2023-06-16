@@ -1,5 +1,6 @@
 - ## ¿Qué es el Software Libre?
-	-
+	- > {{embed ((648ca282-4867-47ff-8aa1-37cb40564120)) }}
+		- [[@Software libre]]
 - ## ¿Por qué utilizar software libre? #card
 	- Porque es software que ofrece varias libertades a las usuarias. Concretamente:
 		- Libertad 0: la libertad de **usar** el programa con cualquier propósito.
