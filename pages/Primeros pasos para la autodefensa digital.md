@@ -46,7 +46,7 @@
 	  + [[El Punto Débil]]
 	  + [[Más simple es más seguro y fácil]]
 - # Seguridad básica
-	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686942075028_0.png)
 	  
 	  La mayoría de la seguridad depende de las contraseñas, pero todavía existen contraseñas como:
 	  ```
@@ -56,15 +56,15 @@
 	  a&n2#yn8
 	  ```
 	  ¿Por qué se consideran inseguras estas contraseñas?
-	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686942075028_0.png)
 	  ![contraseñas.jpg](../assets/contraseñas_1686834811793_0.jpg)
-	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686942075028_0.png)
 	  Además sigue habiendo filtraciones de contraseñas, exponiendo hasta las contraseñas seguras.
-	- ## 1. **Contraseñas**: ![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
+	- ## 1. **Contraseñas**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Cuándo una contraseña es segura?
 	  + ¿Cómo gestionamos las contraseñas?
 	  + ¿Qué tipo de [[autenticación]] es más segura?
-	- ## 1. **Contraseñas**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40}  
+	- ## 1. **Contraseñas**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png)  
 	  ^^**Seguridad Operacional**^^
 	  + **Larga** es mejor que compleja
 	  + **Cambiarlas** de vez en cuando
@@ -72,7 +72,7 @@
 	  + ((648c8ef5-348e-4865-8df6-256759c0205d))
 	  + **No poner todos los huevos en la misma cesta**
 	  + **Usar [[autenticación]] multifactor**
-	- ## 1. **Contraseñas**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 1. **Contraseñas**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Instrumental**^^
 	  + [**HaveIBeenPwned**](https://haveibeenpwned.com/): sitio web para saber si algún servicio que usamos ha sido hackeado
 	  + **Gestores de contraseñas**:
@@ -80,54 +80,54 @@
 	      + **[BitWarden](https://bitwarden.com/)** : servicio online de gestión de contraseñas
 	  + Combinar varias **palabras aleatorias** que nos sean fáciles de recordar
 	  + Activar la **verificación en dos pasos** en todos los servicios que lo permitan
-	- ## 2. **Software**: ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 2. **Software**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Aparecen vulnerabilidades nuevas todos los meses
 	  + Aparece nuevo malware frecuentemente
-	- ## 2. **Software**: ![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
+	- ## 2. **Software**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Cuándo se considera que el software es seguro?
 	  + ¿El el código libre más seguro que el código privativo?
-	- ### 2.1. **Software**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ### 2.1. **Software**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Actualizar frecuentemente
 	  + Instalar solo de fuentes fiables
-	- ### 2.2 **Software**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ### 2.2 **Software**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Anti-Virus
 	     + ClamAV como antivirus y UFW como firewall para GNU/Linux
 	     + WindowsDefender es suficientemente bueno y viene por defecto en Windows
-	- ## 3. **Dispositivos**: ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 3. **Dispositivos**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Los teléfonos móviles, mediante sus antenas de telefonía anuncian su posición constantemente.
 	  + WiFi y Bluetooth también pueden (menos común y permite menos rango)
 	  + Eso se usa para rastrear e identificar a activistas
 	  + [[@El Problema con los Teléfonos Móviles]]
-	- ## 3. **Dispositivos**: ![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
+	- ## 3. **Dispositivos**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Cómo se puede rastrear un teléfono móvil? 
 	  + ¿Para qué puede servir conocer las actividades históricas de las personas (participación en eventos o  relaciones personales)?
-	- ## 3. **Dispositivos**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 3. **Dispositivos**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Poner el modo avión o apagar cuando no se esté usando
 	  + Activar opción de apagado automático de WiFi si no está conectado
 	  + Tener en cuenta qué información ofreces en una protesta
-	- ## 3. **Dispositivos**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 3. **Dispositivos**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Instrumental**^^
 	  + Modo avión
 	  + Bolsa de Faraday
-	- ## 4. **Bloqueo de móvil**: ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 4. **Bloqueo de móvil**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Dejas la huella del patrón marcado en la pantalla.
 	  + Pierdes el móvil por la calle.
 	  + Te arrestan en una protesta. La policía tiene tu móvil.
 	  + **¿Qué información podrían obtener?**
-	- ## 4. **Bloqueo de móvil**: ![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
+	- ## 4. **Bloqueo de móvil**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Qué información guardamos en los teléfonos móviles que no fueron diseñados para la privacidad y seguridad?
 	  + ¿Qué tiene mayor valor: el móvil o los datos que almacenas?
 	  + > {{embed ((648c8ae9-5baf-4fde-8a61-eb911ef31cae)) }}
-	- ## 4. **Bloqueo de móvil**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 4. **Bloqueo de móvil**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Cifrar el móvil
 	  + Utilizar un bloqueo seguro
 	  + Separar perfiles
 	  + Conoce al enemigo
-	- ## 4. **Bloqueo de móvil**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 4. **Bloqueo de móvil**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Instrumental**^^
 	  + No utilizar (o desactivar) el bloqueo biométrico o de patrón antes de una protesta
 	  + Cifrado nativo de Android o Apple
@@ -135,13 +135,13 @@
 	  {{embed ((648a6532-7abc-4db3-8aa2-e741e3a8f5ce)) }} 
 	  + Hardenizar Android: [GrapheneOS](https://grapheneos.org/), [CalyxOS](https://calyxos.org/) o [CopperheadOS](https://copperhead.co/android/) están centrados en seguridad
 	  + Separar perfiles o usar la funcionalidad de "perfil de trabajo" de Android para aislar aplicaciones propietarias
-	- ## 5. **Cifrado de ordenador**: ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 5. **Cifrado de ordenador**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Si se tiene acceso físico al ordenador estás vendido. 
 	  + Estás de cervezas y te roban la mochila con el ordenador.
 	  + Si la policía te arresta tendrá acceso físico.
-	- ## 5. **Cifrado de ordenador**:![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
+	- ## 5. **Cifrado de ordenador**:![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Qué tiene mayor valor: el ordenador o los datos que almacenas?
-	- ## 5. **Cifrado de ordenador**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 5. **Cifrado de ordenador**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Mantener el ordenador apagado cuando no se usa
 	  + Contraseña segura y secreta
@@ -149,14 +149,14 @@
 	  + Linux: [LUKS](https://wiki.archlinux.org/index.php/Dm-crypt) y [más en la ArchWiki](https://wiki.archlinux.org/index.php/Disk_encryption)
 	  + Windows: [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
 	  + Apple: [FileVault](https://support.apple.com/en-us/HT204837)
-	- ## 6. **Conversaciones**: ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
+	- ## 6. **Conversaciones**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Para coordinar acciones en grupo es necesario comunicarse, y a la policía le gusta saber lo que se dice en esos grupos
 	  +
-	- ## 6. **Conversaciones**: ![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
+	- ## 6. **Conversaciones**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Qué temas sensibles se hablan a través de grupos abiertos?
 	  + ¿Existe un anillo de confianza entre las personas del grupo?
 	  + ¿Qué persona suele hablar más de la cuenta de los asustos del grupo?
-	- ## 6. **Conversaciones**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} :
+	- ## 6. **Conversaciones**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Operacional**^^
 	  + Cuidado con quién entra en el grupo
 	  + Borra los mensajes sensibles o usa chats con autodestrucción
@@ -164,7 +164,7 @@
 	  + El punto más débil no eres tú, puede ser otra persona
 	  > {{embed ((648c8076-9224-4b57-870c-f419a9396c2a)) }}
 	  > {{embed ((648c828c-a86a-42d6-8846-a081cb687c97)) }}
-	- ## 6. **Conversaciones**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} :
+	- ## 6. **Conversaciones**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Instrumental**^^
 	  + {{embed ((648a7195-91e6-41f3-a134-15023fd92ee7)) }} 
 	  + [Signal](https://www.signal.org/)
@@ -175,11 +175,11 @@
 	  + Es una época en la cual la recolección masiva de metadatos sobre las comunicaciones electrónicas es más valiosa que la propia recolección de los datos de las comunicaciones. Esto es debido a que a veces los metadatos de una comunicación son más informativos que el contenido de la misma y a su automatización es sencilla. Los metadatos revelan la identidad, costumbres y asociaciones de las personas.
 	- ## 2. **Privacidad**
 	  + Con el control y recolección de información por parte de anunciantes, Google, Facebook, data brokers y prácticamente cualquiera nuestra actividad en internet funciona para crear perfiles que nos conocen mejor que a nosotras.
-	- ### 2.1. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} :
+	- ### 2.1. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Operacional**^^
 	  + Conoce el valor de tus datos
 	  + Uso de nuevas identidades con correos temporales y teléfonos virtuales temporales
-	- ### 2.2. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} :
+	- ### 2.2. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Instrumental**^^
 	  + Navegadores: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 	  + Buscadores: [DuckDuckGo](https://duckduckgo.com/), [StartPage](https://www.startpage.com/)
@@ -191,11 +191,11 @@
 	  + DNS-over-HTTPS (DoH)
 	- ## 3. **Redes**
 	  + Nada en la red es anónimo, al menos hoy en día. Si realmente queremos que nadie sepa lo que hacemos hay que buscar otras formas de navegar internet.
-	- ## 3. **Redes**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 3. **Redes**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + No digas nada, no lo relaciones contigo.
 	  + Sigue el resto de consejos, especialmente el de separar perfiles.
-	- ## 3. **Redes**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 3. **Redes**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Instrumental**^^
 	  + {{embed ((648a70f5-b3b5-4152-a5ee-771f6fe71537)) }} 
 	  + [Tor](https://www.torproject.org/) ([Tails](https://tails.boum.org/), [Whonix](https://www.whonix.org/))
@@ -203,7 +203,7 @@
 	- ## 4. **Reconocimiento físico**
 	  Todas las manifestaciones son grabadas. Las caras y los tatuajes son muy útiles para reconocerte, tápalos.
 	  ![](https://podcast.radioalmaina.org/wp-content/uploads/2019/03/cámaras_espiándose.gif){:height 203, :width 344, :align center}
-	- ## 4. **Reconocimiento físico**: ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40} 
+	- ## 4. **Reconocimiento físico**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Tapa todo aquello que te pueda identificar físicamente
 - # **Seguridad avanzada**

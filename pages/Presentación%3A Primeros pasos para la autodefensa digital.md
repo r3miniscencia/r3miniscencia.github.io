@@ -8,9 +8,9 @@
 	  + Seguridad operacional vs. Seguridad intrumental
 	  + Primeros pasos
 	- **Estructura**
-	  + Problema ![warning.png](../assets/warning_1686916102547_0.png){:height 45, :width 28}
-	  + Preguntas ![question.png](../assets/question_1686916087707_0.png){:height 40, :width 40}
-	  + Soluciones ![lightbulb.png](../assets/lightbulb_1686916062785_0.png){:height 40, :width 40}
+	  + Problema ![warning.png](../assets/warning_1686942075028_0.png)
+	  + Preguntas ![question.png](../assets/question_1686942044135_0.png)
+	  + Soluciones ![lightbulb.png](../assets/lightbulb_1686942086742_0.png)
 	- **Seguridad básica**
 	  + Contraseñas
 	  + Software
