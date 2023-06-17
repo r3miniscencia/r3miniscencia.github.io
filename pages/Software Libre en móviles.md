@@ -1,4 +1,12 @@
 - {{embed [[Software Libre]]}}
+- Preguntas
+	- ¿Por qué utilizar software libre en el móvil? #inbox
+	- ¿Cómo se relaciona el softwate libre con la soberanía tecnológica y autodefensa digital? #inbox
+	- ¿La seguridad sólo trata de las herramientas o software que se usa?#inbox
+	- [¿Evaluación de riesgos y modelo de amenaza?](https://ssd.eff.org/es/module/evaluando-tus-riesgos) #inbox
+	- [¿Qué problemas hay con los teléfonos móviles?](https://ssd.eff.org/es/module/el-problema-con-los-tel%C3%A9fonos-m%C3%B3viles) #inbox
+	- ¿Es recomendable rootear el teléfono? ¿Por qué y para qué? #inbox
+	- ¿Inhabilitar servicios o aplicaciones preinstaladas? ¿Por qué y cómo? #inbox
 ## **Recopilaciones o colecciones de Herramientas**
 id:: 648144c5-74c6-4257-8833-a4957d2d3375
 	- Privacy Guides:
@@ -183,8 +191,10 @@ id:: 648144c5-74c6-4257-8833-a4957d2d3375
 - ### **Auto-organización y participación digital**
 	- Gancio
 	- Mobilizon
--
-- [GrapheneOS]([https://grapheneos.org/](https://grapheneos.org/)):
+- ## Falacias
+	- [[@Logical Defence | F-Droid - Free and Open Source Android App Repository]]
+- ### **Automatizaciones**
+- ## **Glosario**
 ## Tarjeta SIM
 	- El telefonos como el Pinephone permiten disabilitar fisicamente la sim,
 	   existiendo la posiblidad de usar una tarjeta sim externa con un 

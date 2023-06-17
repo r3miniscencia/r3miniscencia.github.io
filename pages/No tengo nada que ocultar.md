@@ -5,3 +5,6 @@
   que ocultar es como justificar que no importa la libertad de expresión 
   porque no tienes nada que decir". *Edward Snowden*
 - ¿Qué ocurriría si hay un fallo en la base de datos que contenga nuestra información personal y algún hacker accede a ella, o se filtra al público? Creo que a nadie le gustaría que tantos aspectos de su vida se hiciesen públicos.
+- [[@Si no has hecho nada malo, no tienes nada que esconder]]
+- El haber tenido determinadas enfermedades, o simplemente algunos hábitos "no saludables" te pueden hacer inasegurable en paises como EE.UU.
+  id:: 648c165c-70b7-4d7c-87fb-c3ebdb5c7ee5

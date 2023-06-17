@@ -1,6 +1,8 @@
+public:: true
+
 - # Primeros pasos para la autodefensa digital
   id:: 64823317-68ae-46ec-9e49-8b2f4aaeaf16
-- En esta página se encuentran todos los recursos utilizados en la charla "Primeros pasos para la autodefensa digital". La presentación se encuentra en [[Presentación: Primeros pasos para la autodefensa digital]] y se va insertando la presentación con esta propia guía para minimizar la duplicación de contenido. También se encuentra un posible [[Primeros pasos para la autodefensa digital]] para que esta charla pueda ser reproducible por cualquier persona.
+	- En esta página se encuentran todos los recursos utilizados en la charla "Primeros pasos para la autodefensa digital". La presentación se encuentra en [[Presentación: Primeros pasos para la autodefensa digital]] y se va insertando la presentación con esta propia guía para minimizar la duplicación de contenido. También se encuentra un posible [[Primeros pasos para la autodefensa digital]] para que esta charla pueda ser reproducible por cualquier persona.
 - {{embed ((648a6531-a1b9-43b5-b95e-7ee32f34e2ea))}}
 - # Conceptos previos
 	- ## 0. Contexto
@@ -10,22 +12,32 @@
 	  + [[Capitalismo de Vigilancia]]
 	  + [[Efecto panóptico]]
 	  + [[Soberanía tecnológica]]
-	- ## 0. Contexto
-	  + [[La tecnología es política]]
+	- {{embed ((648d75aa-79bc-44aa-b728-5f7ecf53cb0b))}}
+	- {{embed ((648d75aa-f04f-4423-b932-ee8543270a6d))}}
+	- {{embed ((648d75aa-8594-49ec-8fe8-7fb7a040b95d))}}
+	- {{embed ((648d75aa-fce6-4758-9689-701413d72f28))}}
+	- {{embed ((648d7831-5bef-4fd2-a5a7-d5103f89c244))}}
 	- ## 0. Contexto
 	  + No me importa la privacidad. [[No tengo nada que ocultar]]
 	       +  Preguntar quién conoce todas las leyes para asegurar que no está haciendo nada ilegal
 	  {{embed [[No tengo nada que ocultar]] }}
+	- {{embed ((648d75aa-47c4-4efe-ace5-bfbca49ef05d))}}
+	- {{embed ((648d75aa-f13a-40c9-81ed-6b6a6d8cdf23))}}
+	- {{embed ((648d75aa-9f73-4e43-86e2-5c5d0d8848a5))}}
+	- {{embed ((648d75aa-5de9-4d52-9ade-8a9707a5eaca))}}
 	- ## 0. Contexto
 	  + [[Soberanía tecnológica]]
 	      + Enfoque comunitario de uso de herramientas, poder reparar, ...
 	      + Saber qué usar y auditar todo el código desde el individuo es inabarcable. Debe haber mecanismos de autogestion y poner en comun el elegir que usamos y promovemos. Delegamos en comunidades afines en las que confiamos y lo respaldan.
 	      + Ser mas autónoma de las corporaciones
+	- {{embed ((648d75aa-c156-48f8-95b6-68eafa289090))}}
 	- ## 1. Seguridad poco a poco:
 	  * Es un mundo muy amplio por lo que **no hay que asustarse ni agobiarse**.
 	  * Los **cambios** se deben hacer **poco a poco** para no agotarse.
 	  * [[Rutina de combate e interiorización de la seguridad]] 
 	  ![image.png](../assets/image_1681909752230_0.png){:height 213, :width 290, :align center}
+	- {{embed ((648d75aa-f6e7-4c7a-bac7-0f6b7c75addf))}}
+	- {{embed ((648d75aa-0db7-496a-9f0f-809e2a115c59))}}
 	- ## 2. Los malos a.k.a modelo de amenazas
 	  + [¿Evaluación de riesgos y modelo de amenaza?](https://ssd.eff.org/es/module/evaluando-tus-riesgos)
 	  + ¿De qué o de quién me estoy defendiendo?
@@ -33,7 +45,9 @@
 	  + Empresarios, políticos, banqueros, criptobros, inmobiliarias, fondos de inversión, u otras personas contrarias a nuestras acciones.
 	  + Fascistas, machistas, racistas y el resto de reaccionarios.
 	  + Algoritmos de control: falsos autónomos, recursos humanos, grandes corporaciones, etc.
+	  + Inteligencias artificiales  
 	  ![image.png](../assets/image_1686190705183_0.png){:height 171, :width 599, :align center}
+	- {{embed ((648d75aa-8c87-4e62-9a50-ef1381b60a21))}}
 	- ## 3. Seguridad operacional vs. Seguridad intrumental
 	  +  ^^Seguridad operacional (OPSEC)^^: se centra en el uso de **procesos y protocolos para aumentar la seguridad**. Se ocupa de pautas de uso y de comportamiento que nos sirven para adquirir ventaja estratégica en un hipotético choque de fuerzas con un determinado oponente.
 	  + > "La [[seguridad operacional]] sin un conocimiento técnico estricto es mero parloteo existencial, mientras que la [[seguridad instrumental]] separada del pensamiento operacional es un abandono de la facultad estratégica que toda técnica contiene."
@@ -41,10 +55,18 @@
 	  [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]]
 	  + ^^Seguridad instrumental^^: se centra en el uso de **herramientas y aplicaciones para aumentar la seguridad**.
 	  + > {{embed ((648c860e-4848-4881-b11d-074d6f68fd53)) }}
+	  + > {{embed ((648c8872-46ae-4daf-bf95-b250d2cc2d50)) }}
+	- {{embed ((648d75aa-883b-4b16-be0f-c21e673a289b))}}
 	- ### 4. Primeros pasos
 	  + [[El conocimiento es Poder]]
 	  + [[El Punto Débil]]
 	  + [[Más simple es más seguro y fácil]]
+	  + Elabora una rutina para empezar poco a poco
+	  + > {{embed ((648c7916-6fe7-4eaf-9b6b-591988785d6a)) }}
+	  + > {{embed ((648c7991-f15c-4fc0-8114-d2862a4ea1f1)) }}
+	  + Identifica las situaciones en las que la mochila es un
+	  obstáculo
+	  + Separar perfiles
 - # Seguridad básica
 	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686942075028_0.png)
 	  
@@ -81,17 +103,21 @@
 	  + Combinar varias **palabras aleatorias** que nos sean fáciles de recordar
 	  + Activar la **verificación en dos pasos** en todos los servicios que lo permitan
 	- ## 2. **Software**: ![warning.png](../assets/warning_1686942075028_0.png)
-	  + Aparecen vulnerabilidades nuevas todos los meses
+	  + Aparecen nuevas vulnerabilidades todos los meses
 	  + Aparece nuevo malware frecuentemente
+	  + Descargamos e instalamos aplicaciones sin saber qué hacen realmente y cuál es su fuente
 	- ## 2. **Software**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Cuándo se considera que el software es seguro?
-	  + ¿El el código libre más seguro que el código privativo?
+	  + ¿El el código libre más seguro que el código privativo? ¿GNU/Linux es más seguro que Windows?
+	  + ¿Cómo nos protogemos frente al acceso remoto?
 	- ### 2.1. **Software**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Actualizar frecuentemente
 	  + Instalar solo de fuentes fiables
+	  + Confiar en las comunidades activas
+	  + Comparte tus preocupaciones y piensa en colectivo
 	- ### 2.2 **Software**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
-	  ^^**Seguridad Operacional**^^
+	  ^^**Seguridad Instrumental**^^
 	  + Anti-Virus
 	     + ClamAV como antivirus y UFW como firewall para GNU/Linux
 	     + WindowsDefender es suficientemente bueno y viene por defecto en Windows
@@ -103,6 +129,7 @@
 	- ## 3. **Dispositivos**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Cómo se puede rastrear un teléfono móvil? 
 	  + ¿Para qué puede servir conocer las actividades históricas de las personas (participación en eventos o  relaciones personales)?
+	- {{embed ((648d75aa-1160-4b80-8dd7-657a1e9ebec7))}}
 	- ## 3. **Dispositivos**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Poner el modo avión o apagar cuando no se esté usando
@@ -117,6 +144,7 @@
 	  + Pierdes el móvil por la calle.
 	  + Te arrestan en una protesta. La policía tiene tu móvil.
 	  + **¿Qué información podrían obtener?**
+	- {{embed ((648d75aa-fec7-4aad-a7b5-d80e83495cb7))}}
 	- ## 4. **Bloqueo de móvil**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Qué información guardamos en los teléfonos móviles que no fueron diseñados para la privacidad y seguridad?
 	  + ¿Qué tiene mayor valor: el móvil o los datos que almacenas?
@@ -127,6 +155,7 @@
 	  + Utilizar un bloqueo seguro
 	  + Separar perfiles
 	  + Conoce al enemigo
+	- {{embed ((648d75aa-b139-4755-9494-577559bb2dad))}}
 	- ## 4. **Bloqueo de móvil**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Instrumental**^^
 	  + No utilizar (o desactivar) el bloqueo biométrico o de patrón antes de una protesta
@@ -139,8 +168,9 @@
 	  + Si se tiene acceso físico al ordenador estás vendido. 
 	  + Estás de cervezas y te roban la mochila con el ordenador.
 	  + Si la policía te arresta tendrá acceso físico.
-	- ## 5. **Cifrado de ordenador**:![question.png](../assets/question_1686942044135_0.png)
-	  + ¿Qué tiene mayor valor: el ordenador o los datos que almacenas?
+	- ## 5. **Cifrado de ordenador**: ![question.png](../assets/question_1686942044135_0.png)
+	  + ¿Qué datos no tenemos cifrados? ¿Pueden comprometernos a nosotros o a nuestro colectivo?
+	  + ¿Qué tiene mayor valor: el ordenador o los datos que almacenas? ¿Copias de seguridad cifradas?
 	- ## 5. **Cifrado de ordenador**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
 	  + Mantener el ordenador apagado cuando no se usa
@@ -149,13 +179,13 @@
 	  + Linux: [LUKS](https://wiki.archlinux.org/index.php/Dm-crypt) y [más en la ArchWiki](https://wiki.archlinux.org/index.php/Disk_encryption)
 	  + Windows: [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
 	  + Apple: [FileVault](https://support.apple.com/en-us/HT204837)
+	- {{embed ((648d88b9-f3fc-4779-b35d-1d5270089b49))}}
 	- ## 6. **Conversaciones**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Para coordinar acciones en grupo es necesario comunicarse, y a la policía le gusta saber lo que se dice en esos grupos
-	  +
 	- ## 6. **Conversaciones**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Qué temas sensibles se hablan a través de grupos abiertos?
 	  + ¿Existe un anillo de confianza entre las personas del grupo?
-	  + ¿Qué persona suele hablar más de la cuenta de los asustos del grupo?
+	  + ¿Qué persona suele hablar más de la cuenta de los asustos del colectivo?
 	- ## 6. **Conversaciones**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Operacional**^^
 	  + Cuidado con quién entra en el grupo
@@ -170,11 +200,12 @@
 	  + [Signal](https://www.signal.org/)
 	      + ¿Por qué signal tiene un servidor central y aunque sea de código abierto, no existen más instancias diferentes? #inbox
 - # **Privacidad y Anonimato**
-	- ## 1. **Recolección masiva**
+	- ## 1. **Recolección masiva** ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Las nuevas formas de recolección de datos presentan amenazas nuevas. Lo importante no es ya los datos sino los [[metadatos]].
 	  + Es una época en la cual la recolección masiva de metadatos sobre las comunicaciones electrónicas es más valiosa que la propia recolección de los datos de las comunicaciones. Esto es debido a que a veces los metadatos de una comunicación son más informativos que el contenido de la misma y a su automatización es sencilla. Los metadatos revelan la identidad, costumbres y asociaciones de las personas.
-	- ## 2. **Privacidad**
+	- ## 2. **Privacidad** ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Con el control y recolección de información por parte de anunciantes, Google, Facebook, data brokers y prácticamente cualquiera nuestra actividad en internet funciona para crear perfiles que nos conocen mejor que a nosotras.
+	  ![cookies.jpg](../assets/cookies_1686963913306_0.jpg)
 	- ### 2.1. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Operacional**^^
 	  + Conoce el valor de tus datos
