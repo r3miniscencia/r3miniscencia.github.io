@@ -1,3 +1,0 @@
-- [web](https://grapheneos.org/)
-- Soportado por los pixels.
-- [Características](https://grapheneos.org/features)

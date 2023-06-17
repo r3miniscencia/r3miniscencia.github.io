@@ -1,2 +1,0 @@
-- [[Presentación: Primeros pasos para la autodefensa digital]]
-- [[Primeros pasos para la autodefensa digital]]

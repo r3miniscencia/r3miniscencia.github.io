@@ -1,7 +1,0 @@
-- [repo](https://github.com/topjohnwu/Magisk)
-- Magisk es una suite de software de código abierto para personalizar Android. Podemos instalar y flashear módulos adicionales (entre ellos MicroG), también rootear y ocultar el root a ciertas aplicaciones que se niegan a funcionar en sistemas rooteados, como las de los bancos.
-- Algunas características destacadas:
-	- MagiskSU: Proporciona acceso root para aplicaciones
-	- Módulos Magisk: Modifica particiones de sólo lectura instalando módulos
-	- MagiskBoot: La herramienta más completa para desempaquetar y reempaquetar imágenes de arranque de Android
-	- Zygisk: Ejecuta código en todos los procesos de las aplicaciones Android

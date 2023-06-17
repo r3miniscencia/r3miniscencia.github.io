@@ -1,2 +1,0 @@
-- [web](https://divestos.org/)
-- Soporta varios [dispositivos](https://divestos.org/index.php?page=devices&base=LineageOS&golden=false) pero de dudoso funcionamiento.

@@ -1,9 +1,0 @@
-- [web](https://f-droid.org/)
-- Repositorios no oficiales:
-	- archive.newpipe.net/fdroid/repo: [https://archive.newpipe.net/fdroid/repo?fingerprint=E2402C78F9B97C6C89E97DB914A2751FDA1D02FE2039CC0897A462BDB57E7501](https://archive.newpipe.net/fdroid/repo?fingerprint=E2402C78F9B97C6C89E97DB914A2751FDA1D02FE2039CC0897A462BDB57E7501)
-- [Fossdroid](https://fossdroid.com/)
-	- Frontend web de F-droid
-- Anotar la visión de aplicaciones reproducibles de F-Droid, una manera de verificar de manera distribuída las aplicaciones:
-	- explicación (en español): [https://blog.virgulilla.com/2020/nicoalt-reproducible-f-droid/](https://blog.virgulilla.com/2020/nicoalt-reproducible-f-droid/)
-	- noticias recientes (en inglés): [https://f-droid.org/es/2023/01/15/towards-a-reproducible-fdroid.html](https://f-droid.org/es/2023/01/15/towards-a-reproducible-fdroid.html)
-- ¿Actualizaciones automáticas en f-droid? #inbox #contestar

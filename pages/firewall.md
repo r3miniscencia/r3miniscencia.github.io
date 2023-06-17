@@ -1,5 +1,0 @@
-- En [informática](https://es.wikipedia.org/wiki/Inform%C3%A1tica), un **cortafuegos** (del término original en [inglés](https://es.wikipedia.org/wiki/Idioma_ingl%C3%A9s) **firewall**) es la parte de un [sistema informático](https://es.wikipedia.org/wiki/Sistema_inform%C3%A1tico) o una [red informática](https://es.wikipedia.org/wiki/Red_inform%C3%A1tica) que está diseñada para bloquear el acceso no autorizado, permitiendo al mismo tiempo comunicaciones autorizadas.[1](https://es.wikipedia.org/wiki/Cortafuegos_(inform%C3%A1tica))
-- ## A nivel de red en una máquina
-	- ufw
-- ## Referencias
-	- [[@Cortafuegos (informática)]]

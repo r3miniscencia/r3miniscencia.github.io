@@ -1,2 +1,0 @@
-- Vivimos en una sociedad capitalista y la sociedad nos organiza de forma capitalista, respecto a la tecnología y en Internet. Si queremos superar eso, parte de la filosofía hacker es crear espacios independientes del capital en la red. Redes descentralizadas, software libre, que den independencia a la clase trabajadora como sujeto y cree sobre estos proyectos.
-- La tecnología va hacia donde quiera que vaya el que la sustenta. En este caso, el dinero, el capital y finalmente los monopolios.
