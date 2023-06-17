@@ -28,11 +28,14 @@ public:: true
 	- **Seguridad Avanzada**
 	  + Separación de perfiles
 	  + No crear más información de la necesaria
+	  + Pensamiento ofensivo
+	  + OSINT
+	  + Ingeniería social
 # Conceptos previos
 	- ## 0. Contexto
 	  id:: 648d75aa-79bc-44aa-b728-5f7ecf53cb0b
 	  + [[La tecnología es política]]
-	  ![](https://telegra.ph/file/f510273db71478f2dc050.jpg){:align center, :height 711, :width 443}
+	  ![](https://telegra.ph/file/f510273db71478f2dc050.jpg){:align center, :height 574, :width 363}
 	- ## 0. Contexto
 	  id:: 648d75aa-f04f-4423-b932-ee8543270a6d
 	  + La información es poder 
@@ -51,7 +54,8 @@ public:: true
 	  id:: 648d7831-5bef-4fd2-a5a7-d5103f89c244
 	  + "Nada que ocultar... mientras estés 100% de acuerdo con la visión y las políticas de tu gobierno". *Emily Kate Goulding*
 	  + "Decir que no importa el derecho a la privacidad porque no tienes nada que ocultar es como justificar que no importa la libertad de expresión porque no tienes nada que decir". *Edward Snowden*
-	  ![https://i.blogs.es/f67394/privacyplease/1366_2000.jpg](https://i.blogs.es/f67394/privacyplease/1366_2000.jpg){:height 232, :width 367, :align center}
+	  + "Si no tenemos nada que ocultar, ¿por qué estamos bajo vigilancia?." *Jake Lawler*
+	  ![https://i.blogs.es/f67394/privacyplease/1366_2000.jpg](https://i.blogs.es/f67394/privacyplease/1366_2000.jpg){:height 173, :width 267, :align center}
 	- ## 0. Contexto
 	  id:: 648d75aa-47c4-4efe-ace5-bfbca49ef05d
 	  + [[Capitalismo de Vigilancia]]
@@ -59,12 +63,15 @@ public:: true
 	- ## 0. Contexto
 	  id:: 648d75aa-f13a-40c9-81ed-6b6a6d8cdf23
 	  + Modelos predictivos de publicidad y comportamiento futuro 
-	  ![Uso de datos de comportamiento para modelos predictivos de publicidad](https://www.alejandrobarros.com/wp-content/uploads/2021/02/discovery-of-behavioral-surplus.png){:height 1009, :width 593, :align center}
+	  ![Uso de datos de comportamiento para modelos predictivos de publicidad](https://www.alejandrobarros.com/wp-content/uploads/2021/02/discovery-of-behavioral-surplus.png){:height 579, :width 345, :align center}
+	- ## 0. Contexto
+	  + Publicaciones de Snowden y programas PRISM, XKEYSCORE o TEMPORA
+	  ![CIA.jpg](../assets/CIA_1687016701674_0.jpg){:height 273, :width 246}
 	- ## 0. Contexto
 	  id:: 648d75aa-9f73-4e43-86e2-5c5d0d8848a5
 	  + [[Efecto panóptico]]
 	      + Sentir que nuestros actos estén bajo inspección, se rechazan pensamientos o actos subversivos. Revolución en el comportamiento humano para que no se cuestionen ciertos paradigmas establecidos por convención social.
-	  ![efecto panóptico](https://i.pinimg.com/originals/09/9d/72/099d7246092b0171bf6a1f2ba7db9664.png){:height 233, :width 369, :align center}
+	  ![efecto panóptico](https://i.pinimg.com/originals/09/9d/72/099d7246092b0171bf6a1f2ba7db9664.png){:height 215, :width 323, :align center}
 	- ## 0. Contexto
 	  id:: 648d75aa-5de9-4d52-9ade-8a9707a5eaca
 	  + [[Soberanía tecnológica]]
@@ -74,7 +81,7 @@ public:: true
 	  * **No hay que asustarse ni agobiarse**.
 	  * Los **cambios** se deben hacer **poco a poco** para no agotarse.
 	  * [[Rutina de combate e interiorización de la seguridad]] 
-	  ![image.png](../assets/image_1681909752230_0.png){:height 353, :width 467, :align center}
+	  ![image.png](../assets/image_1681909752230_0.png){:height 324, :width 428, :align center}
 	- ## 2. Los malos a.k.a modelo de amenaza
 	  id:: 648d75aa-f6e7-4c7a-bac7-0f6b7c75addf
 	  + ¿Qué quieres proteger?
@@ -85,8 +92,7 @@ public:: true
 	  ![https://www.no-gods-no-masters.com/images_designs/keep-your-city-clean-destroy-fascism-anti-racist-d001039460245.jpg](https://www.no-gods-no-masters.com/images_designs/keep-your-city-clean-destroy-fascism-anti-racist-d001039460245.jpg){:height 147, :width 141}
 	- ## 3. Seguridad operacional vs. Seguridad intrumental
 	  id:: 648d75aa-8c87-4e62-9a50-ef1381b60a21
-	  +  ^^Seguridad operacional (OPSEC)^^: se centra en el uso de 
-	  **procesos y protocolos para aumentar la seguridad**. 
+	  +  ^^Seguridad operacional (OPSEC)^^: se centra en el uso de **procesos y protocolos para aumentar la seguridad**. 
 	  + ^^Seguridad instrumental^^: se centra en el uso de
 	  **herramientas y aplicaciones para aumentar la seguridad**.
 	- ## 4. Primeros pasos
@@ -110,7 +116,7 @@ public:: true
 	  ```
 	  ¿Por qué se consideran inseguras estas contraseñas?
 	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686942075028_0.png)
-	  ![contraseñas.jpg](../assets/contraseñas_1686834811793_0.jpg)
+	  ![contraseñas.jpg](../assets/contraseñas_1686834811793_0.jpg){:height 443, :width 531}
 	- ## 1. **Contraseñas**:  ![warning.png](../assets/warning_1686942075028_0.png)
 	  Además sigue habiendo filtraciones de datos, exponiendo hasta las contraseñas seguras.
 	  ![https://cdn.le-vpn.com/es/wp-content/uploads/2016/06/databreachinf1200x628v1-es-1.jpg](https://cdn.le-vpn.com/es/wp-content/uploads/2016/06/databreachinf1200x628v1-es-1.jpg){:height 348, :width 641, align center}
@@ -133,17 +139,19 @@ public:: true
 	      + [**KeePassXC**](https://keepassxc.org/): en local, móvil y con extensión para el navegador
 	      + **[BitWarden](https://bitwarden.com/)**: servicio online
 	      + **[VaultWarden](https://vaultwarden.us/)**: servicio para autoalojar
+	- ## 1. **Contraseñas**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
+	  ^^**Seguridad Instrumental**^^
 	  + Combinar varias **palabras aleatorias** que nos sean fáciles de recordar
 	  + Activar la **verificación en dos pasos** en todos los servicios que lo permitan
 	- ## 2. **Software**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Aparecen nuevas vulnerabilidades todos los meses
-	  + Aparece nuevo malware frecuentemente
+	  + Aparece nuevo **malware frecuentemente**
 	  + Descargamos e instalamos aplicaciones sin saber qué hacen realmente y cuál es su fuente
-	  + Tu móvil ya no tiene mantenimiento y deja de actualizarse
+	  + Tu **móvil** ya no tiene mantenimiento y **deja de actualizarse**
 	- ## 2. **Software**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Cuándo se considera que el **software es seguro**?
 	  + ¿Cuál es el riesgo de que una aplicación no sea segura? ¿Qué consecuencias puede tener?
-	  + ¿El el código libre más seguro que el código privativo? ¿GNU/Linux es más seguro que Windows?
+	  + ¿El código libre más seguro que el código privativo? ¿GNU/Linux es más seguro que Windows?
 	  + ¿Cómo nos protogemos frente al **acceso remoto**?
 	- ### 2.1. **Software**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Operacional**^^
@@ -156,10 +164,11 @@ public:: true
 	  + Anti-Virus
 	     + ClamAV como antivirus y UFW como firewall para GNU/Linux
 	     + WindowsDefender es suficientemente bueno y viene por defecto en Windows
-	- ## 3. **Dispositivos**: ![Problema](https://publicdomainvectors.org/photos/warning-17.png){:height 47, :width 33}
+	- ## 3. **Dispositivos**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Los teléfonos móviles, mediante sus antenas de telefonía anuncian su posición constantemente.
 	  + WiFi y Bluetooth también pueden (menos común y permite menos rango)
 	  + Eso se usa para rastrear e identificar a activistas
+	- ## 3. **Dispositivos**: ![warning.png](../assets/warning_1686942075028_0.png)
 	  ![](https://ssd.eff.org/files/ssd/wysiwyg/pictures/553/content_endtoendencryptionmetadata-nolocks.png)
 	- ## 3. **Dispositivos**: ![question.png](../assets/question_1686942044135_0.png)
 	  	* ¿Cómo se puede rastrear un teléfono móvil?
@@ -183,6 +192,7 @@ public:: true
 	  id:: 648d75aa-fec7-4aad-a7b5-d80e83495cb7
 	  + Los **teléfonos móviles no fueron diseñados para la privacidad y seguridad** ¿Qué información guardamos en ellos?
 	  + ¿Qué tiene **mayor valor**: el móvil o los datos que almacenas?
+	- ## 4. **Bloqueo de móvil**: ![question.png](../assets/question_1686942044135_0.png)
 	  + ¿Puede mi adversario **observarme desbloquear el teléfono** antes de ganar acceso físico a él?
 	  + ¿Puede mi adversario **obligarme o coaccionarme para desbloquear el dispositivo**?
 	  + ¿Mi adversario puede **recoger muestras biométricas** (huellas, iris, fotografías) para desbloquear el dispositivo con ellas?
@@ -230,6 +240,8 @@ public:: true
 	  + Cuidado con **quién entra en el grupo**
 	  + **Borra los mensajes sensibles** o usa chats con autodestrucción
 	  + Usar **protocolos interoperables y abiertos** para comunicarnos
+	- ## 6. **Conversaciones**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
+	  ^^**Seguridad Operacional**^^
 	  + El **punto más débil** no eres tú, puede ser otra persona
 	  + La seguridad en los grupos es el resultado de la **suma de compromisos individuales** por no exponer la privacidad de los demás miembros
 	- ## 6. **Conversaciones**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
@@ -238,8 +250,8 @@ public:: true
 	  + Conversations (jabber/xmpp)
 	  + Element (matrix)
 	  + Jami
-	  + Briar
-	  + aTox
+	  + [Briar](https://briarproject.org/): mensajería cifrada de punto a punto sin necesidad de acceso a Internet. Usa bluetooth, WiFi y Tor
+	  + aTox: protocolo Tox
 # **Privacidad y Anonimato**
 	- ## 1. **Recolección masiva** ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Nuevas formas de **recolección de datos == nuevas amenazas**. 
@@ -247,19 +259,25 @@ public:: true
 	  + Los metadatos de una comunicación son **más informativos que el contenido** de la misma y a su **automatización es sencilla**. Los **metadatos revelan la identidad, costumbres y asociaciones de las personas**.
 	- ## 2. **Privacidad** ![warning.png](../assets/warning_1686942075028_0.png)
 	  + Con el **control y recolección de información** por parte de anunciantes, Google, Facebook, data brokers y prácticamente cualquiera, nuestra actividad en internet funciona para crear perfiles que **nos conocen mejor que nosotras mismas**.
-	  ![cookies.jpg](../assets/cookies_1686963913306_0.jpg){:height 391, :width 379}
+	  ![cookies.jpg](../assets/cookies_1686963913306_0.jpg){:height 325, :width 306}
 	- ## 2. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Operacional**^^
 	  + **Conoce el valor de tus datos**
 	  + Uso de **nuevas identidades** con **correos temporales y teléfonos virtuales** temporales
+	  + **Confía en las comunidades** afines
 	- ## 2. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
 	  ^^**Seguridad Instrumental**^^
-	  + Navegadores: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium), [Vanadium](https://github.com/GrapheneOS/Vanadium)
+	  + Navegadores: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 	  + Buscadores: [SearXNG](https://docs.searxng.org/), [DuckDuckGo](https://duckduckgo.com/), [StartPage](https://www.startpage.com/)
+	- ## 2. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
+	  ^^**Seguridad Instrumental**^^
 	  + Extensiones para bloquear publicidad y tracker: [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), Privacy Badger y [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?src=collection)
 	  + Borrar cookies: [CookieAutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+	  + Redirección a frontends libres y abiertos: [LibRedirect](https://libredirect.github.io/) y [UntrackMe](https://f-droid.org/packages/app.fedilab.nitterizeme/) (app móvil)
 	  + Bloquear scripts para evitar rastreadores: [NoScript](https://noscript.net/)
 	  + Separación de perfiles: [Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+	- ## 2. **Privacidad**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) :
+	  ^^**Seguridad Instrumental**^^
 	  + Utilizar siempre HTTPS, existe la opción nativa en los navegadores y sino con la extensión [HTTPSEverywhere](https://www.eff.org/https-everywhere)
 	  + DNS-over-HTTPS (DoH)
 	- ## 3. **Redes** ![warning.png](../assets/warning_1686942075028_0.png)
@@ -270,7 +288,7 @@ public:: true
 	  + Sigue el resto de consejos, especialmente el de separar perfiles.
 	- ## 3. **Redes**: ![lightbulb.png](../assets/lightbulb_1686942086742_0.png) 
 	  ^^**Seguridad Instrumental**^^
-	  + VPNs: WireGuard, RiseupVPN, TunnerBear
+	  + VPNs: RiseupVPN, WireGuard, TunnerBear
 	  + [Tor](https://www.torproject.org/) ([Tails](https://tails.boum.org/), [Whonix](https://www.whonix.org/))
 	  + [I2P](https://geti2p.net/en/)
 	- ## 4. **Reconocimiento físico** ![warning.png](../assets/warning_1686942075028_0.png)
@@ -301,30 +319,35 @@ public:: true
 	  + Sesgos cognitivos
 - # **Conclusiones**
   +  Rutinas donde ir introduciendo nuevos elementos poco a poco
+  + Confiar en comunidades y colectivos afines
+  + Venirse al hacklab
   + Más info en: [https://reminiscencia.frama.io](https://reminiscencia.frama.io)
 - # **Referencias**
-  + [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]] 
-  + [[Software Libre en móviles]] 
-  + [Guía de Defensa Digital para Organizaciones Sociales](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf)
-  + [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia](https://codeberg.org/PrivacyFirst/Data_Protection/issues)/
+	- + [[@RESISTENCIA DIGITAL | MANUAL DE SEGURIDAD OPERACIONAL E INSTRUMENTAL PARA SMARTPHONES]] 
+	  + [[Software Libre en móviles]] 
+	  + [Guía de Defensa Digital para Organizaciones Sociales](https://lalibre.net/wp-content/uploads/2022/09/Guia-de-proteccion-digital.pdf)
+	  + [Manual de autodefensa en la era de la digitalización forzada o Resistencia al capitalismo de vigilancia](https://codeberg.org/PrivacyFirst/Data_Protection/issues)/
 - # **Recopilaciones o colecciones de herramientas**
   id:: f4c8bca4-6d5c-4e19-a733-3aa23777b201
-  + Privacy Guides:
-  	+ [Privacy Guides - Android Overview](https://www.privacyguides.org/os/android-overview/)
-  	+ [Privacy Guides - Android](https://www.privacyguides.org/android/)
-  	+ [Privacy Guides  - Privacy Tools](https://www.privacyguides.org/tools/)
-  + Prism break:
-  	+ [Android](https://prism-break.org/es/categories/android/)
-  	+ [iOS](https://prism-break.org/es/categories/ios/)
-  + EFF:
-  	+ [Surveillance Self-Defense](https://ssd.eff.org/es)
-  	    + [Android](https://ssd.eff.org/es/search?q=android&commit=Buscar)  
-  	    + [iOS](https://ssd.eff.org/es/search?q=ios&commit=Buscar)  
-  + [The Guardian Project](https://guardianproject.info/)
-  + [Desgooglicemos Internet](https://degooglisons-internet.org/es/)
-  + [switching.software](https://switching.software/)
-  + [Privacy Tools - Android alternatives](https://www.privacytools.io/android-alternatives)
-  + Gofoss:
-  	+ [Degoogled Phones - Free Your Phone From Google And Apple](https://gofoss.net/intro-free-your-phone/)
-  	+ [Top 75 Tracker Free FOSS Apps (FDroid & Aurora Store)](https://gofoss.net/foss-apps/)
+	- ## Recopilaciones o colecciones de herramientas
+	  + Privacy Guides:
+	  	+ [Privacy Guides - Android Overview](https://www.privacyguides.org/os/android-overview/)
+	  	+ [Privacy Guides - Android](https://www.privacyguides.org/android/)
+	  	+ [Privacy Guides  - Privacy Tools](https://www.privacyguides.org/tools/)
+	  + Prism break:
+	  	+ [Android](https://prism-break.org/es/categories/android/)
+	  	+ [iOS](https://prism-break.org/es/categories/ios/)
+	- ## Recopilaciones o colecciones de herramientas
+	  + EFF:
+	  	+ [Surveillance Self-Defense](https://ssd.eff.org/es)
+	  	    + [Android](https://ssd.eff.org/es/search?q=android&commit=Buscar)  
+	  	    + [iOS](https://ssd.eff.org/es/search?q=ios&commit=Buscar)  
+	  + [The Guardian Project](https://guardianproject.info/)
+	  + [Desgooglicemos Internet](https://degooglisons-internet.org/es/)
+	  + [switching.software](https://switching.software/)
+	- ## Recopilaciones o colecciones de herramientas
+	  + [Privacy Tools - Android alternatives](https://www.privacytools.io/android-alternatives)
+	  + Gofoss:
+	  	+ [Degoogled Phones - Free Your Phone From Google And Apple](https://gofoss.net/intro-free-your-phone/)
+	  	+ [Top 75 Tracker Free FOSS Apps (FDroid & Aurora Store)](https://gofoss.net/foss-apps/)
 - # Preguntas y debate
